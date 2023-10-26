@@ -1,5 +1,6 @@
 
 # E-commerce Sales Dashboard
+![ecommarce](https://github.com/amitrajput921998/Power-BI-Project-Ecommerce-Sales/assets/49475880/407aaac9-9bf9-40b1-96ae-194ad5408faa)
 
 ## Overview
 This Power BI dashboard provides a comprehensive view of e-commerce sales data across India, allowing the owner to track and analyze sales performance. The dashboard is designed to help make data-driven decisions and gain insights into the business's sales operations.
