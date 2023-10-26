@@ -44,6 +44,3 @@ You can customize the dashboard by:
 ## Acknowledgments
 Special thanks to the contributors, data providers, and tools that made this dashboard possible.
 
----
-
-Feel free to adapt and expand this template to provide more details about your specific e-commerce sales dashboard. Provide as much context and guidance as needed to ensure that users can effectively utilize the dashboard for their analysis and decision-making.
